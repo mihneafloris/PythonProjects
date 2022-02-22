@@ -1,0 +1,37 @@
+Part I
+1)	a=[6,5,4,3,2,1,0,-1,-2,-3]
+	[-3,-1]
+
+2)	c=6,idx=0, print = i am integer,
+	c=4,idx=1, print = proper numbers in order,
+	c=2,idx=2, print = am i haiku now ?
+	
+3)	result = 0
+		 2
+		 4
+		 4 
+ 	final result = 4
+
+4)	30
+		 
+5)	i=0 j=0 n=6
+	i=1 j=1 n=13
+	i=2 j=1 n=19
+	i=3 j=1 n=25
+	 
+6)	a=[0,2,4,6,8]
+	b=[-1,-0.6,-0.2,0.2,0.6]
+	sum=0.8
+
+Part II
+7)  A)	 3, 20 but has an indentation error
+8)  C)
+9)  C),G)
+10) B)
+
+Part III
+11)	a)xball = np.array([0.,10,])
+	b) while nbounce<6
+	c) np.sqrt(vball[0]**2+vball[1]**2)
+	d) + vball*dt 
+	e)xball[0],xball[1]

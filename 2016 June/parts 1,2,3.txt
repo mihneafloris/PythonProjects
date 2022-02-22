@@ -1,0 +1,38 @@
+WHAT DOES THIS PRINT
+1)  a= [ 20,18,16,14,12,10,8,6,4,2]
+    print = 20 16 12 8 4
+
+2) Oh, I'm a lumberjack, and I'm okay,	
+   I sleep all night and I work all day,
+   He's a lumberjack, and he's okay,
+   He sleeps all night and he works all day.
+
+3) n=12
+
+4) 24 20
+   24 40
+   36 40 
+   48 40
+   48 60
+   60 60
+    
+
+va=60
+
+5) t=[0 1 2 3 4 5 6 7 8 9]
+   x=[-25 -24 -21 -16 -9 0 11 24 39 56]
+   y=[0 0 0 0 0 0 11 24 39 56]
+   sumy = 130
+
+6) 0 because 0.99999 is rounded down to 0
+
+DEBUG THE PROGRAM
+7) B
+8) A
+9) E
+10) a) h<-10
+    b) h<0
+    c) v+ay*dt
+    d) ttab
+    e)122
+
